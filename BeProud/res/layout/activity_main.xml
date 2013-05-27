@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <!-- for red lines...? -->
+    <!-- <View
+        android:id="@+id/view1"
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/textView2"
+        android:background="#FF0000" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="5dp"
+        android:layout_toLeftOf="@+id/view1"
+        android:background="#FF0000" />-->
+
+	<view
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/body"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_above="@+id/textView2"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentTop="true"
+	    class="edu.ucsb.cs.cs185.lauren05.beproud.MainActivity$LineEditText"
+	    android:background="@android:color/transparent"
+	    android:capitalize="sentences"
+	    android:fadingEdge="vertical"
+	    android:gravity="top"
+	    android:padding="5dp"
+	    android:scrollbars="vertical"
+	    android:textSize="22sp" />
+	
+    <Button
+        android:id="@+id/button3"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/save"
+        android:onClick="addNewEntry" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button1"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:text="@string/choose_value"
+        android:textSize="@dimen/FixToNotepad"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/button1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/button3"
+        android:text="@string/dropdown" />
+
+</RelativeLayout>

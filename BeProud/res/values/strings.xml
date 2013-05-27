@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeProud</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="numberone">#1</string>
+    <string name="add_entries">+</string>
+    <string name="choose_value">choose a value:</string>
+    <string name="save">Save</string>
+    <string name="add_more">Feeling extra proud? Add another accomplishment.</string>
+    <string name="mood">How are you feeling today?</string>
+    <string name="sansserif">sans-serif</string>
+    <string name="dropdown">TODO: picker here</string>
+
+</resources>
