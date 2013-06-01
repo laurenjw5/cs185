@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="wheel_margin">3dp</dimen>
+    <dimen name="wheel_height">130dp</dimen>
+    <dimen name="spinner_width">192dp</dimen>
+</resources>

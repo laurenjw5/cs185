@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">KeepScoreList</string>
+	<string name="set">Enter</string>
+	<string name="menu_settings">Settings</string>
+	<string-array name="teams">
+		<item> Atlanta Hawks </item>
+		<item> Boston Celtics </item>
+		<item> Brooklyn Nets </item>
+		<item> Charlotte Bobcats </item>
+		<item> Chicago Bulls </item>
+		<item> Cleveland Cavaliers </item>
+		<item> Dallas Mavericks </item>
+		<item> Denver Nuggets </item>
+		<item> Detroit Pistons </item>
+		<item> Golden State Warriors </item>
+		<item> Houston Rockets </item>
+		<item> Indiana Pacers </item>
+		<item> Los Angeles Clippers </item>
+		<item> Los Angeles Lakers </item>
+		<item> Memphis Grizzlies </item>
+		<item> Miami Heat </item>
+		<item> Milwaukee Bucks </item>
+		<item> Minnesota Timberwolves </item>
+		<item> New Orleans Pelicans </item>
+		<item> New York Knicks </item>
+		<item> Oklahoma City Thunder </item>
+		<item> Orlando Magic </item>
+		<item> Philadelphia 76ers </item>
+		<item> Phoenix Suns </item>
+		<item> Portland Trail Blazers </item>
+		<item> Sacramento Kings </item>
+		<item> San Antonio Spurs </item>
+		<item> Toronto Raptors </item>
+		<item> Utah Jazz </item>
+		<item> Washington Wizards </item>
+	</string-array>
+	<string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string name="new_entry">NEW ENTRY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="home">HOME</string>
+    <string name="help">HELP</string>
+    <string name="done">Done</string>
+
+</resources>

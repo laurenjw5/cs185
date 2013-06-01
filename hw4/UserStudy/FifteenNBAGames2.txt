@@ -1,0 +1,15 @@
+Dec 9, 2012     Utah Jazz               117,    Los Angeles Lakers      110
+Jan 2, 2013     Utah Jazz               106,    Minnesota Timberwolves  84
+Feb 20, 2013    Golden State Warriors   108,    Phoenix Suns            98
+Nov 21, 2012    Phoenix Suns            114,    Portland Trail Blazers  87
+Mar 27, 2013    Indiana Pacers          100,    Houston Rockets         91
+Mar 23, 2013    New York Knicks         110,    Toronto Raptors         84
+Dec 5, 2012     Los Angeles Lakers      103,    New Orleans Hornets     87
+Jan 7, 2013     New Orleans Hornets     95,     San Antonio Spurs       88
+Mar 5, 2013     Oklahoma City Thunder   122,    Los Angeles Lakers      105
+Feb 1, 2013     Boston Celtics          97,     Orlando Magic           84
+Jan 30, 2013    Boston Celtics          99,     Sacramento Kings        81
+Apr 14, 2013    New York Knicks         90,     Indiana Pacers          80
+Feb 1, 2013     Dallas Mavericks        109,    Phoenix Suns            99
+Jan 9, 2013     Cleveland Cavaliers     99,     Atlanta Hawks           83
+Mar 9, 2013     Brooklyn Nets           93,     Atlanta Hawks           80

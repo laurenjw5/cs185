@@ -1,0 +1,15 @@
+Mar 31, 2013    Chicago Bulls           95,     Detroit Pistons         94
+Dec 11, 2012    Denver Nuggets          101,    Detroit Pistons         94
+Jan 16, 2013    Dallas Mavericks        105,    Houston Rockets         100
+Mar 18, 2013    Indiana Pacers          111,    Cleveland Cavaliers     90
+Nov 23, 2012    San Antonio Spurs       104,    Indiana Pacers          97
+Jan 6, 2013     Denver Nuggets          112,    Los Angeles Lakers      105
+Nov 16, 2012    Portland Trail Blazers  119,    Houston Rockets         117
+Dec 5, 2012     Chicago Bulls           95,     Cleveland Cavaliers     85
+Apr 3, 2013     Toronto Raptors         88,     Washington Wizards      78
+Mar 9, 2013     Denver Nuggets          111,    Minnesota Timberwolves  88
+Feb 8, 2013     New York Knicks         100,    Minnesota Timberwolves  94
+Jan 25, 2013    Oklahoma City Thunder   105,    Sacramento Kings        95
+Feb 22, 2013    Toronto Raptors         100,    New York Knicks         98
+Nov 12, 2012    Oklahoma City Thunder   92,     Detroit Pistons         90
+Mar 8, 2013     Houston Rockets         94,     Golden State Warriors   88

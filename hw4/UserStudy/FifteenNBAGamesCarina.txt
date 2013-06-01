@@ -1,0 +1,15 @@
+Nov 5, 2012     Dallas Mavericks        114,    Portland Trail Blazers  91
+Mar 21, 2013    Portland Trail Blazers  99,     Chicago Bulls           89
+Dec 12, 2012    Phoenix Suns            82,     Memphis Grizzlies       80
+Nov 26, 2012    Memphis Grizzlies       84,     Cleveland Cavaliers     78
+Mar 9, 2013     Washington Wizards      104,    Charlotte Bobcats       87
+Feb 10, 2013    Memphis Grizzlies       105,    Minnesota Timberwolves  88
+Dec 7, 2012     Memphis Grizzlies       96,     New Orleans Hornets     89
+Mar 19, 2013    Milwaukee Bucks         102,    Portland Trail Blazers  95
+Apr 15, 2013    Phoenix Suns            119,    Houston Rockets         112
+Jan 18, 2013    Chicago Bulls           100,    Boston Celtics          99
+Mar 9, 2013     Phoenix Suns            107,    Houston Rockets         105
+Nov 8, 2012     Oklahoma City Thunder   97,     Chicago Bulls           91
+Apr 17, 2013    Toronto Raptors         114,    Boston Celtics          90
+Jan 14, 2013    Oklahoma City Thunder   102,    Phoenix Suns            90
+Jan 13, 2013    Brooklyn Nets           97,     Indiana Pacers          86
